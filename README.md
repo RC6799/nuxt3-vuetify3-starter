@@ -2,7 +2,7 @@
 
 ![Starter Image](/public/starter.png)
 Soooo... Vuetify just released version 3.. Nuxt is at rc13 (will be released soon).
-This template here will get you up & running with adding the two together :)
+This template here will get you up & running with adding the two together!! :)
 
 
 ## Demo Here
